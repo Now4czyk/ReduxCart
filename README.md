@@ -10,8 +10,6 @@ Web app simulating a Cart. Created to practise advanced aspects of Redux
 Type in terminal
 ```
 npm install
-npm install redux
-npm install @reduxjs/toolkit
 ```
 and then
 ```
