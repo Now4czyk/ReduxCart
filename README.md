@@ -6,7 +6,7 @@ Web app simulating a Cart. Created to practise advanced aspects of Redux
 - Redux
 - FireBase
 
-# How to run
+# To run locally
 Type in terminal
 ```
 npm install
